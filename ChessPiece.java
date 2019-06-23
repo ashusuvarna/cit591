@@ -1,6 +1,7 @@
 /**
  * This is a default ChessPiece class created for MCIT CIT-591 course
  * at University of Pennsyalvania
+ * Just another comment for version 2 change
  */
 
 /**
