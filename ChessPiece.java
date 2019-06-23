@@ -15,8 +15,8 @@ public class ChessPiece {
 	
 	public ChessPiece(String pColor, String pType) {
 		
-		color = pColor;
-		type = pType;
+		this.color = pColor;
+		this.type = pType;
 	}
 	
 }
