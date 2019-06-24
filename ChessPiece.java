@@ -19,4 +19,11 @@ public class ChessPiece {
 		this.type = pType;
 	}
 	
+	public statis void main(String args[]){
+		
+		ChessPiece blackPawn1 = new ChessPiece("Black", "Pawn");
+		System.out.println("Color of the new chess piece is: " + blackPawn1.color);
+		System.out.println("Type of the new chess piece is: " + blackPawn1.type);
+	}
+	
 }
